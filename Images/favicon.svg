@@ -1,0 +1,10 @@
+<svg id="Letter" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.938" y1="0.025" x2="0.063" y2="0.977" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#045de9"/>
+      <stop offset="1" stop-color="#09c6f9"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="64" height="64" rx="12" fill="url(#linear-gradient)"/>
+  <text id="D" transform="translate(11 50)" fill="#fff" font-size="53" font-family="ScriptMTBold, Script MT" letter-spacing="0.012em"><tspan x="0" y="0">D</tspan></text>
+</svg>
